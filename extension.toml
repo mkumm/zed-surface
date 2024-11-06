@@ -3,8 +3,8 @@ name = "Surface"
 version = "0.0.1"
 schema_version = 1
 authors = ["Marlus Saraiva", "Michael Kumm <michael@mkumm.com>"]
-description = "Support for Surface"
-#repository = "https://github.com/your-name/my-zed-extension"
+description = "Surface support for Zed"
+repository = "https://github.com/mkumm/zed-surface"
 
 #[language_servers.surface-ls]
 #name = "SurfaceLS"
