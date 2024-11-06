@@ -1,13 +1,14 @@
 # Zed Extension for Surface
 
-**Too early for actual use**
+**Too early for actual use!**
 
 For the truly impatient, you can manually add a developer extension (like this one).
 
 To install this as Developer Extension...
-    1. Clone this repo to your local machine.
-    2. From the Zed Extensions page, click "Install Dev Extension" button and select the directory of this extension.
-    3. After about 30 seconds your extension should be ready to use.
+
+1. Clone this repo to your local machine.
+2. From the Zed Extensions page, click "Install Dev Extension" button and select the directory of this extension.
+3. After about 30 seconds your extension should be ready to use.
 
 To test, open/create any `.sface` file. This extension will only work on `.sface` files, not embedded Surface.
 
