@@ -1,0 +1,15 @@
+id = "surface"
+name = "Surface"
+version = "0.0.1"
+schema_version = 1
+authors = ["Marlus Saraiva", "Michael Kumm <michael@mkumm.com>"]
+description = "Support for Surface"
+#repository = "https://github.com/your-name/my-zed-extension"
+
+#[language_servers.surface-ls]
+#name = "SurfaceLS"
+#languages = ["Surface"]
+
+[grammars.surface]
+repository = "https://github.com/msaraiva/tree-sitter-surface"
+commit = "ef5f809838318819995b873943da429686020af0"

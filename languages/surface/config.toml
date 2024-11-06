@@ -1,0 +1,9 @@
+name = "Surface"
+grammar = "surface"
+path_suffixes = ["sface"]
+line_comments = ["# "]
+brackets = [
+    { start = "\"", end = "\"", close = true, newline = true },
+    { start = "{", end = "}", close = true, newline = true },
+    { start = "(", end = ")", close = true, newline = true }
+]
